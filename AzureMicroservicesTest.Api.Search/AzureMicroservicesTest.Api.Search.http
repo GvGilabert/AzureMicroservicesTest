@@ -1,0 +1,6 @@
+@AzureMicroservicesTest.Api.Search_HostAddress = http://localhost:5169
+
+GET {{AzureMicroservicesTest.Api.Search_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

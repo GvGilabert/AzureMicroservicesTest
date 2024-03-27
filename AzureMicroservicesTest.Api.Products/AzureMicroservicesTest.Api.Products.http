@@ -1,0 +1,6 @@
+@AzureMicroservicesTest.Api.Products_HostAddress = http://localhost:5028
+
+GET {{AzureMicroservicesTest.Api.Products_HostAddress}}/api/products
+Accept: application/json
+
+###
